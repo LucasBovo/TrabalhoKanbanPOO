@@ -1,0 +1,8 @@
+com\trabalhokanban\service\TaskService.class
+com\trabalhokanban\service\TaskService$1.class
+com\trabalhokanban\enums\TaskPriority.class
+com\trabalhokanban\repository\TaskRepository.class
+com\trabalhokanban\model\Task.class
+com\trabalhokanban\enums\TaskStatus.class
+com\trabalhokanban\TrabalhoKanbanApplication.class
+com\trabalhokanban\controller\TaskController.class
